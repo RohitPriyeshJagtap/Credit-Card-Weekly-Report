@@ -1,5 +1,7 @@
 # Credit-Card-Weekly-Report
 Power BI Dashboard
+# Objective:
+To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 # Insights:
 - Overall revenue reached 57M.
 - Total interest amounted to 8M.
